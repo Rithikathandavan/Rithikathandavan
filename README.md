@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋 I'm Rithika 
 
-<!--
-**Rithikathandavan/Rithikathandavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring B.Sc Computer Science Student specializing in **Artificial Intelligence**
 
-Here are some ideas to get you started:
+💻 Passionate about programming, creating innovative applications, and solving real-world problems 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Exploring the world of **chatbot development** and AI integration  
+
+<img align="right" width="300" height="300" src="https://i.pinimg.com/736x/26/91/f8/2691f8ba9a464b5a28172d912beacbb5.jpg">
+
+## 🚀 Projects & Interests  
+- 🤖 **Chatbot Development**  
+   Crafting conversational experiences
+- 🔍 **Learning Areas**  
+   - Machine Learning  
+   - Natural Language Processing  
+   - UI/UX Design for AI Applications  
+
+## 📫 Connect with Me  
+- Email: rithikathandavan@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rithikathandavan08/
+
+## 🛠️ Tech Stack  
+- **Languages**: Python, HTML, CSS, JavaScript  
+- **Tools**: Git, VS Code  
+- **Learning**: TensorFlow, OpenCV, PyTorch  
+
+✨ *"Innovation and creativity fuel my passion for technology."*  
