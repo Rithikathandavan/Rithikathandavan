@@ -14,7 +14,8 @@
 - 🔍 **Learning Areas**  
    - Machine Learning  
    - Natural Language Processing  
-   - UI/UX Design for AI Applications  
+   - Full Stack Development
+   - UI/UX Design for AI Applications 
 
 ## 📫 Connect with Me  
 - Email: rithikathandavan@gmail.com
