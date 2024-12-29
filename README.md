@@ -11,8 +11,7 @@
 ## 🚀 Projects & Interests  
 - 🤖 **Chatbot Development**  
    Crafting conversational experiences
-- 🔍 **Learning Areas**  
-   - Machine Learning  
+- 🔍 **Learning Areas**   
    - Natural Language Processing  
    - Full Stack Development
    - UI/UX Design for AI Applications 
