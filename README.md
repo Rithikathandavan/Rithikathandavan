@@ -10,7 +10,7 @@
 
 ## 🚀 Projects & Interests  
 - 🤖 **Chatbot Development**  
-   Crafting conversational experiences
+   - Crafting conversational experiences
 - 🔍 **Learning Areas**   
    - Natural Language Processing  
    - Full Stack Development
